@@ -7,7 +7,8 @@ My discord yhemes and plugins
 
 ## Future idea
 
-- [ ] 
+- [ ] Dark theme
+- [ ] Dinamic avatar
 
 ## Libs
 
