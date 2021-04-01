@@ -1,5 +1,5 @@
 .theme-dark {
-    --header-primary: rgba(0, 0, 0, 0);
+    --header-primary: rgb(241, 123, 11);
     --header-secondary: rgba(0, 0, 0, 0);
     --text-normal: rgb(0, 222, 255);
     --text-muted: rgb(39, 180, 181);
@@ -9,14 +9,14 @@
     --interactive-hover: rgba(0, 0, 0, 0);
     --interactive-active: rgba(0, 0, 0, 0);
     --interactive-muted: rgba(0, 0, 0, 0);
-    --background-primary: rgba(0, 0, 0, 0);
+    --background-primary: rgba(0, 0, 0, 0.2);
     --background-secondary: rgba(0, 0, 0, 0);
-    --background-secondary-alt: rgba(0, 0, 0, 0);
-    --background-tertiary: rgba(0, 0, 0, 0);
-    --background-accent: rgba(0, 0, 0, 0);
-    --background-floating: rgba(0, 0, 0, 0);
-    --background-mobile-primary: rgba(0, 0, 0, 0);
-    --background-mobile-secondary: rgba(0, 0, 0, 0);
+    --background-secondary-alt: rgba(0, 0, 0, 1);
+    --background-tertiary: rgba(0, 0, 0, 0.31);
+    --background-accent: rgba(0, 0, 0, 0.6);
+    --background-floating: rgba(0, 0, 0, 0.6);
+    --background-mobile-primary: rgba(0, 0, 0, 0.6);
+    --background-mobile-secondary: rgba(0, 0, 0, 0.6);
     --background-modifier-hover: rgba(79,84,92,0.16);
     --background-modifier-active: rgba(79,84,92,0.24);
     --background-modifier-selected: rgba(79,84,92,0.32);
