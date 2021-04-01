@@ -1,11 +1,11 @@
 .theme-dark {
     --header-primary: rgba(0, 0, 0, 0);
     --header-secondary: rgba(0, 0, 0, 0);
-    --text-normal: rgba(0, 0, 0, 0);
-    --text-muted: rgba(0, 0, 0, 0);
-    --text-link: rgba(0, 0, 0, 0);
-    --channels-default: rgba(0, 0, 0, 0);
-    --interactive-normal: rgba(0, 0, 0, 0);
+    --text-normal: rgb(0, 222, 255);
+    --text-muted: rgb(39, 180, 181);
+    --text-link: rgb(213, 0, 255);
+    --channels-default: rgb(21, 170, 171);
+    --interactive-normal: rgb(224, 74, 74);
     --interactive-hover: rgba(0, 0, 0, 0);
     --interactive-active: rgba(0, 0, 0, 0);
     --interactive-muted: rgba(0, 0, 0, 0);
@@ -49,4 +49,9 @@
     --deprecated-quickswitcher-input-background: #72767d;
     --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
     --deprecated-text-input-bg: rgba(0,0,0,0.1);
+}
+
+.appMount-3lHmkl, body {
+    background-image: url(https://images3.alphacoders.com/102/thumb-1920-1028801.jpg);
+    background-size: cover;
 }
