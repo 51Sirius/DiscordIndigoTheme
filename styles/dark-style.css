@@ -6,12 +6,12 @@
     --text-link: rgb(213, 0, 255);
     --channels-default: rgb(21, 170, 171);
     --interactive-normal: rgb(224, 74, 74);
-    --interactive-hover: rgba(0, 0, 0, 0);
-    --interactive-active: rgba(0, 0, 0, 0);
-    --interactive-muted: rgba(0, 0, 0, 0);
+    --interactive-hover: rgb(255, 0, 0);
+    --interactive-active: rgb(214, 3, 3);
+    --interactive-muted: rgb(24, 100, 109);
     --background-primary: rgba(0, 0, 0, 0.2);
     --background-secondary: rgba(0, 0, 0, 0);
-    --background-secondary-alt: rgba(0, 0, 0, 1);
+    --background-secondary-alt: rgba(0, 0, 0, 0.5);
     --background-tertiary: rgba(0, 0, 0, 0.31);
     --background-accent: rgba(0, 0, 0, 0.6);
     --background-floating: rgba(0, 0, 0, 0.6);
@@ -40,7 +40,7 @@
     --focus-primary: #00b0f4;
     --radio-group-dot-foreground: #8ea1e1;
     --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
-    --channeltextarea-background: #40444b;
+    --channeltextarea-background: #041533;
     --activity-card-background: #202225;
     --textbox-markdown-syntax: #8e9297;
     --deprecated-card-bg: rgba(32,34,37,0.6);
