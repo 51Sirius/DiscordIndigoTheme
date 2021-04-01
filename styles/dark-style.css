@@ -1,6 +1,6 @@
 .theme-dark {
     --header-primary: rgb(241, 123, 11);
-    --header-secondary: rgba(0, 0, 0, 0);
+    --header-secondary: rgb(102, 188, 202);
     --text-normal: rgb(0, 222, 255);
     --text-muted: rgb(39, 180, 181);
     --text-link: rgb(213, 0, 255);
@@ -54,4 +54,8 @@
 .appMount-3lHmkl, body {
     background-image: url(https://images3.alphacoders.com/102/thumb-1920-1028801.jpg);
     background-size: cover;
+}
+
+.theme-dark .container-1D34oG {
+    background-color: rgba(0, 0, 0, 0.2);
 }
