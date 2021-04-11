@@ -9,6 +9,7 @@ My discord yhemes and plugins
 
 - [ ] Dark theme
 - [ ] Dinamic avatar
+- [ ] Dynamic status
 
 ## Libs
 
