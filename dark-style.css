@@ -59,3 +59,15 @@
 .theme-dark .container-1D34oG {
     background-color: rgba(0, 0, 0, 0.2);
 }
+
+.content-1x5b-n:hover {
+    transition: 10s ease-in-out;
+}
+
+.content-1x5b-n {
+    padding: 4px;
+}
+
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
+    background: radial-gradient(white, #FFA9A1);
+}
