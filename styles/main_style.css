@@ -6,16 +6,16 @@
     --text-link: rgb(213, 0, 255);
     --channels-default: rgb(21, 170, 171);
     --interactive-normal: rgb(224, 74, 74);
-    --interactive-hover: rgb(255, 0, 0);
-    --interactive-active: rgb(214, 3, 3);
+    --interactive-hover: rgb(0, 217, 255);
+    --interactive-active: rgb(0, 222, 255);
     --interactive-muted: rgb(24, 100, 109);
-    --background-primary: rgba(0, 0, 0, 0.2);
+    --background-primary: rgba(0, 0, 0, 0.1);
     --background-secondary: rgba(0, 0, 0, 0);
-    --background-secondary-alt: rgba(0, 0, 0, 0.5);
-    --background-tertiary: rgba(0, 0, 0, 0.31);
-    --background-accent: rgba(0, 0, 0, 0.6);
-    --background-floating: rgba(0, 0, 0, 0.6);
-    --background-mobile-primary: rgba(0, 0, 0, 0.6);
+    --background-secondary-alt: rgba(0, 0, 0, 0);
+    --background-tertiary: rgba(0, 0, 0, 0);
+    --background-accent: rgba(0, 0, 0, 0);
+    --background-floating: rgba(0, 0, 0, 0);
+    --background-mobile-primary: rgba(0, 0, 0, 0);
     --background-mobile-secondary: rgba(0, 0, 0, 0.6);
     --background-modifier-hover: rgba(79, 84, 92, 0.16);
     --background-modifier-active: rgba(79, 84, 92, 0.24);
@@ -52,12 +52,8 @@
 }
 
 .appMount-3lHmkl, body {
-    background-image: url(https://images3.alphacoders.com/102/thumb-1920-1028801.jpg);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614406173_52-p-temno-sinii-fon-anime-77.jpg);
     background-size: cover;
-}
-
-.theme-dark .container-1D34oG {
-    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .content-1x5b-n:hover {
@@ -69,5 +65,23 @@
 }
 
 .modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
-    background: radial-gradient(white, #FFA9A1);
+    background: radial-gradient(rgba(53, 87, 225, 0.3), rgba(5, 28, 99, 0.2));
+    border-radius: 10px;
+    border: solid 1px rgba(1,2,1,0.5);
+}
+
+.overflow-WK9Ogt {
+    font-size: 20px;
+}
+
+.message-2qnXI6 {
+    border: 3px solid black;
+    border-radius: 10px;
+    background: rgba(1,1,1,0.2);
+}
+
+.guilds-1SWlCJ, .sidebar-2K8pFh, .chat-3bRxxu {
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 10px;
 }
