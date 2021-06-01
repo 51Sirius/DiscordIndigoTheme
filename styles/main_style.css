@@ -75,7 +75,8 @@
 }
 
 .message-2qnXI6 {
-    border: 3px solid black;
+    margin-top: 10px;
+    border: 1px solid black;
     border-radius: 10px;
     background: rgba(1,1,1,0.2);
 }
@@ -84,4 +85,12 @@
     border-radius: 25px;
     background-color: rgba(0, 0, 0, 0.6);
     margin: 10px;
+}
+
+.name-1jkAdW {
+    font-size: 26px;
+}
+
+.title-29uC1r {
+    font-size: 18px;
 }
