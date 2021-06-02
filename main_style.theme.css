@@ -81,9 +81,9 @@
     background: rgba(1,1,1,0.2);
 }
 
-.guilds-1SWlCJ, .sidebar-2K8pFh, .chat-3bRxxu {
+.guilds-1SWlCJ, .sidebar-2K8pFh, .chat-3bRxxu, .container-1D34oG, .sidebar-CFHs9e, .contentColumn-2hrIYH, .userPopout-3XzG_A {
     border-radius: 25px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.6)!important;
     margin: 10px;
 }
 
@@ -105,13 +105,38 @@
 }
 
 .avatarSpeaking-2IGMRN {
-    box-shadow: inset 0 0 0 2px darkorange,inset 0 0 0 3px var(--background-secondary);
+    box-shadow: inset 0 0 0 2px rgba(53, 87, 225, 0.3),inset 0 0 0 3px var(--background-secondary);
 }
 
-.usernameSpeaking-RmltQx {
-        background: linear-gradient(rgba(53, 87, 225, 0.3), rgba(5, 28, 99, 0.2));
+.mentioned-xhSam7 {
+    background: rgba(208,163,3,0.2);
 }
 
-.avatarSpeaking-2IGMRN {
-        background: rgba(53, 87, 225, 0.3);
+.role-2irmRk{
+    border: 3px solid;
+    border-radius: 8px;
+}
+
+.section-2gLsgF {
+    background-color: rgba(51, 99, 165, 0.82);
+}
+
+.menu-3sdvDG {
+    background-color: rgba(44, 55, 109, 0.37);
+}
+
+.auto-Ge5KZx::-webkit-scrollbar-track, .thin-1ybCId::-webkit-scrollbar-track {
+    background: rgba(53, 87, 225, 0.2);
+}
+
+.auto-Ge5KZx::-webkit-scrollbar, .thin-1ybCId::-webkit-scrollbar
+{
+    width: 12px;
+}
+
+.auto-Ge5KZx::-webkit-scrollbar-thumb, .thin-1ybCId::-webkit-scrollbar-thumb
+{
+    background-color: rgba(1,2,1,0.8);
+    border-radius: 36px;
+    border: 1px solid rgba(53, 87, 225, 0.3);
 }
