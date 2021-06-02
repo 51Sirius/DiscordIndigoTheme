@@ -94,3 +94,24 @@
 .title-29uC1r {
     font-size: 18px;
 }
+
+.avatarSmall-1PJoGO {
+    width: 30px;
+    height: 30px;
+}
+
+.usernameFont-23TX-h {
+    font-size: 17px;
+}
+
+.avatarSpeaking-2IGMRN {
+    box-shadow: inset 0 0 0 2px darkorange,inset 0 0 0 3px var(--background-secondary);
+}
+
+.usernameSpeaking-RmltQx {
+        background: linear-gradient(rgba(53, 87, 225, 0.3), rgba(5, 28, 99, 0.2));
+}
+
+.avatarSpeaking-2IGMRN {
+        background: rgba(53, 87, 225, 0.3);
+}
