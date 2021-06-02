@@ -8,7 +8,7 @@ Indigo cloud theme
 
 ## Future idea
 
-- [ ] Dark theme
+- [x] Dark theme
 - [ ] Dynamic avatar
 - [ ] Dynamic status
 
